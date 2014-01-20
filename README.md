@@ -1,4 +1,4 @@
-boilerpipe-demo
+JUDCon 2014 Demo Application
 ===============
 
-boilerpipe API demo
+JUDCon India 2014 demo application
